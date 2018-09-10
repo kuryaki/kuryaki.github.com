@@ -1,0 +1,33 @@
+{
+  "name": "david.roncancio.me",
+  "version": "1.0.0",
+  "description": "profile",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuryaki/kuryaki.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuryaki/kuryaki.github.io/issues"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.17"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "xterm": "^3.0.1"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  },
+  "homepage": "https://github.com/kuryaki/kuryaki.github.io#readme"
+}
