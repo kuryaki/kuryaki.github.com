@@ -19,7 +19,7 @@
     "url": "https://github.com/kuryaki/kuryaki.github.io/issues"
   },
   "devDependencies": {
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^2.1.1"
   },
   "dependencies": {
     "react": "^16.2.0",
