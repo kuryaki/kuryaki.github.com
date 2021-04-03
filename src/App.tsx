@@ -10,7 +10,8 @@ function App() {
         <p>
           <a className="App-link" target="_blank" href="mailto:david@roncancio.me">e-mail</a> |
           <a className="App-link" target="_blank" href="https://github.com/kuryaki">github</a> |
-          <a className="App-link" target="_blank" href="https://twitter.com/kuryaki">twitter</a>
+          <a className="App-link" target="_blank" href="https://twitter.com/kuryaki">twitter</a> |
+          <a className="App-link" target="_blank" href="https://david.roncancio.me/blog">blog</a>
         </p>
         <p>Software Developer</p>
       </header>
